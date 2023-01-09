@@ -1,4 +1,5 @@
 public class SumOfNaturalNum {
+    //this is comment
     static int sumOfn(int num)
     {
         if(num==1)
